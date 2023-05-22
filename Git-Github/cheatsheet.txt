@@ -19,6 +19,7 @@ COMANDOS PARA RAMAS:
 . git checkout "nombreRama" // Moverte a la rama deseada
 . git switch "rama" // Moverte a la rama deseada
 . git diff main "otra rama" // Muestra diferencias entre ramas
+. git marge "nombreRama" // Integra los cambios de la rama seleccionada a la rama en la que estas ubicado
 
 OTROS COMANDOS
 . git status // Realiza un seguimiento de los estados de los archivos
