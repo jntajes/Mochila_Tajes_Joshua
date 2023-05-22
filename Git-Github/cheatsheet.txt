@@ -1,0 +1,18 @@
+COMANDOS PARA CREAR UN REPOSITORIO LOCAL:
+. git init // Crea el respositorio
+. git config user.name "nombreUsuario" // Agregar nuestra identidad
+. git config user.email "emailUsuario" // Agregar nuestro email
+. git remote add origin http://... // Apunta al respositorio remoto
+
+COMANDOS PARA SUBIR CAMBIOS:
+. git add . // Agerga todos los archivos
+. git commit -m "mensaje" // Commitea los cambios hechos
+. git push origin main // Envìa los cambios al repositiorio remoto
+. git status // Realiza un seguimiento de los estados de los archivos
+
+COMANDOS PARA BAJAR CAMBIOS:
+. git pull origin main // Descarga los cambios que existen en el repositorio remoto
+. git clone http://... // Clonar un repositorio trabajo remotamente pero que no tenemos localmente
+
+OTROS COMANDOS
+. git status // Realiza un seguimiento de los estados de los archivos
