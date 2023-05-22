@@ -14,7 +14,12 @@ COMANDOS PARA BAJAR CAMBIOS:
 . git pull origin main // Descarga los cambios que existen en el repositorio remoto
 . git clone http://... // Clonar un repositorio trabajo remotamente pero que no tenemos localmente
 
-OTROS COMANDOS
-. git status // Realiza un seguimiento de los estados de los archivos
+COMANDOS PARA RAMAS:
 . git branch "nombreRama" // Crear una rama nueva
 . git checkout "nombreRama" // Moverte a la rama deseada
+. git switch "rama" // Moverte a la rama deseada
+. git diff main "otra rama" // Muestra diferencias entre ramas
+
+OTROS COMANDOS
+. git status // Realiza un seguimiento de los estados de los archivos
+. git log --oneline // Muestra la info de los commit y en que rama estan
