@@ -16,3 +16,5 @@ COMANDOS PARA BAJAR CAMBIOS:
 
 OTROS COMANDOS
 . git status // Realiza un seguimiento de los estados de los archivos
+. git branch "nombreRama" // Crear una rama nueva
+. git checkout "nombreRama" // Moverte a la rama deseada
