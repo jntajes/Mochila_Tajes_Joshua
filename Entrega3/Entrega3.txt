@@ -1,0 +1,11 @@
+1-¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Porque existen lenguajes iterpretados y compilados, los lenguajes interpretados pueden usarse en todos los SO debido a que el interprete lee el código y lo ejectua línea a línea, en cambio el lenguaje compliado requiere de un compilador que crea un ejectuable que puede ejecutarse en el SO donde fue compliado, para que pueda ser utilizado en otro SO deberia ser compliado nuevamente.
+
+2-¿Qué tipo de máquina virtual es VirtualBox?
+
+Es una maquina virtual de proposito general que permite la creación y ejecución de máquinas virtuales en diversos SO anfitriones, lo que birnda flexibilidad y versatilidad para probar, desarrollar y ejecutar diferentes entronos y SO en una sola máquina física.
+
+3-Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás?¿por qué?
+
+No, debido a que las máquinas virtuales están diseñadas para funcionar de manera independiente y aisladas entre sí.
