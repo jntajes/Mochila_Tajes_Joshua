@@ -1,0 +1,7 @@
+IP privada: 192.168.1.8
+IP publica: 186.54.2.73
+MAC: 08:00:27:6d:b6:4d
+
+¿Es diferente a la IP pública y privada de nuestra máquina host?
+
+Es diferente la IP privada debido a que VB genera maquinas virtuales que simulan ser otro dispositivo, en cambio la IP publica se mantiene ya que se conectan desde la misma conexión.
